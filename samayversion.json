@@ -4,5 +4,6 @@
   "update_required": true,
   "force_update": false,
   "minimum_supported_version": 2,
-  "message": "A new version of the app is available. Please update to continue."
+  "message": "A new version of the app is available. Kindly update the app to be able to use all the new features."
+  "force_update_message": "A new version of the app is available. Please update to continue."
 }
