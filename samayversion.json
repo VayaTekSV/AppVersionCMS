@@ -2,9 +2,10 @@
   "latest_version_num": 3,
   "latest_version_name": "2.1.0",
   "update_required": true,
-  "force_update": true,
+  "force_update": false,
   "minimum_supported_version": 3,
   "message": "A new version of the app is available. Kindly update the app to be able to use all the new features.",
   "force_update_message": "A new version of the app is available. Please update to continue."
 }
+
 
